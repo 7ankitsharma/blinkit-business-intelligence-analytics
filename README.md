@@ -49,7 +49,7 @@ blinkit-analysis/
 │   ├── raw/                          # Raw generated CSVs (not included — see below)
 │   └── cleaned/                      # Cleaned CSVs used for MySQL load
 │
-├── scripts/
+├── python/
 │   ├── dataset.py                    # Generates synthetic Blinkit dataset (9 CSVs)
 │   ├── 01_Data_Validation.ipynb      # Cleans & validates raw data
 │   └── 03_load_data.py               # Loads cleaned CSVs into MySQL
@@ -63,7 +63,7 @@ blinkit-analysis/
 ├── dashboard/
 │   └── Blinkit_Business_Intelligence_Dashboard.pbix
 │
-├── assets/
+├── Dashboard_Screenshots/
 │   ├── Executive.png
 │   ├── Customers.png
 │   ├── Delivery_and_operations.png
