@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project simulating a quick-commerce (Blinkit-style) business — from raw data generation through cleaning, validation, SQL-based business analysis, and an interactive 5-page Power BI dashboard.
 
-![Executive Dashboard](assets/Executive.png)
+![Executive Dashboard](Dashboard_Screenshots/Executive.png)
 
 ---
 
@@ -162,19 +162,19 @@ Open `dashboard/Blinkit_Business_Intelligence_Dashboard.pbix` in Power BI Deskto
 ## 📈 Dashboard Preview
 
 **Executive Overview** — Revenue, profit, cancellation rate, and category performance at a glance
-![Executive](assets/Executive.png)
+![Executive](Dashboard_Screenshots/Executive.png)
 
 **Customer Insights & Retention** — Segmentation, signup trends, acquisition channels
-![Customers](assets/Customers.png)
+![Customers](Dashboard_Screenshots/Customers.png)
 
 **Delivery & Operations** — SLA compliance, delivery time trends, hourly order volume
-![Delivery and Operations](assets/Delivery_and_operations.png)
+![Delivery and Operations](Dashboard_Screenshots/Delivery_and_operations.png)
 
 **Delivery Partner Performance** — Ratings, vehicle mix, city-wise partner distribution
-![Delivery Partners](assets/Delivery_partners.png)
+![Delivery Partners](Dashboard_Screenshots/Delivery_partners.png)
 
 **Product & Inventory Intelligence** — Top products, brand performance, margin analysis
-![Product](assets/Product.png)
+![Product](Dashboard_Screenshots/Product.png)
 
 ---
 
