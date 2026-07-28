@@ -168,7 +168,7 @@ Open `dashboard/Blinkit_Business_Intelligence_Dashboard.pbix` in Power BI Deskto
 ![Customers](Dashboard_Screenshots/Customers.png)
 
 **Delivery & Operations** — SLA compliance, delivery time trends, hourly order volume
-![Delivery and Operations](Dashboard_Screenshots/Delivery_and_operations.png)
+![Delivery and Operations](Dashboard_Screenshots/Delivery and operations.png)
 
 **Delivery Partner Performance** — Ratings, vehicle mix, city-wise partner distribution
 ![Delivery Partners](Dashboard_Screenshots/Delivery_partners.png)
